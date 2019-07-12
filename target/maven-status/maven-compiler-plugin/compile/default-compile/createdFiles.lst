@@ -1,0 +1,8 @@
+com\dsq\chooseAddress\utils\JedisClient.class
+com\dsq\chooseAddress\pojo\Area.class
+com\dsq\chooseAddress\service\AreaService.class
+com\dsq\chooseAddress\controller\AreaController.class
+com\dsq\chooseAddress\mapper\AreaMapper.class
+com\dsq\chooseAddress\service\impl\AreaServiceImpl.class
+com\dsq\chooseAddress\utils\JsonUtils.class
+com\dsq\chooseAddress\utils\JedisClientPool.class
